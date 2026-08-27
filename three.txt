@@ -1,0 +1,1 @@
+this is new three.txt after reverting to the last commit and destorying it!
